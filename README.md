@@ -1,2 +1,3 @@
-# Atlas
-Chatbot for space hackathon
+# ChatGPT LangChain masterclass code
+
+Chatbot for using langchain
